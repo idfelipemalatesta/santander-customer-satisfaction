@@ -7,4 +7,4 @@ A satisfação do cliente é uma medida fundamental de sucesso. Clientes insatis
 de sair. Clientes satisfeitos, por outro lado, se tornam defensores da marca!
 
 Quais clientes são clientes satisfeitos?
-Modelo apresenta uma acurácia de 75%.
+* Modelo apresenta uma acurácia de 75%.
