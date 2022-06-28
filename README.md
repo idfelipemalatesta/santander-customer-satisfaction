@@ -1,5 +1,5 @@
 # Santander Customer Satisfaction
-Projeto com Feedback da formação Cientista de Dados da Data Science Academy do curso Big Data Real-Time Analytics com Python e Spark.
+Projeto com Feedback da formação Cientista de Dados da Data Science Academy.
 
 Fonte dos dados: https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/overview
 
