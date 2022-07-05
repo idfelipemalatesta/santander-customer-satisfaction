@@ -6,9 +6,9 @@ de sair. Clientes satisfeitos, por outro lado, se tornam defensores da marca!
 
 O objetivo do projeto é identificar clientes insatisfeitos no início do relacionamento. Isso permitiria que o Santander adotasse medidas proativas para melhorar a felicidade de um cliente antes que seja tarde demais.
 
-Fonte dos dados: https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/overview
+* Quais clientes são clientes satisfeitos?
 
-Quais clientes são clientes satisfeitos?
+Fonte dos dados: https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/overview
 
 Projeto desenvolvido com Algoritmo de Aprendizagem Supervisionada de Classificação.
 
