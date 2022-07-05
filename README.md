@@ -8,7 +8,7 @@ O objetivo do projeto é identificar clientes insatisfeitos no início do relaci
 
 * Quais clientes são clientes satisfeitos?
 
-Fonte dos dados: https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/overview
+Fonte dos dados: https://www.kaggle.com/competitions/santander-customer-satisfaction/overview
 
 Projeto desenvolvido com Algoritmo de Aprendizagem Supervisionada de Classificação.
 
